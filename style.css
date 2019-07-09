@@ -1,0 +1,8 @@
+* {
+position: fixed, absolute, sticky
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column ;
+  }

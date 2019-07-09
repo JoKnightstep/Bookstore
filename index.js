@@ -23,3 +23,14 @@ const book2 = {
         "I am the Carpenter. Goo goo g'joob"
     ]
 }
+
+const book3 = {
+    "id": 3,
+    "name": "Robinson Crusoe",
+    "author": "Daniel Defoe"
+    "pictureUrl": "https://https://images-na.ssl-images-amazon.com/images/I/61vx%2B62ckJL.jpg://cannonballread3.files.wordpress.com/2012/01/alice06.jpg.wikimedia.org/wikipedia/commons/thumb/d/d2/Wizard_title_page.jpg/220px-Wizard_title_page.jpghttp://graphics8.nytimes.com/images/2015/10/15/dining/15RECIPE20DIN/15RECIPE20DIN-articleLarge.jpg",
+    "price": 17.19,
+    "sellingPoints": [
+        "often credited as marking the beginning of realistic fiction as a literary genre",
+        "become one of the most widely published books in history",
+        "Gave way to the term Man Friday and Girl Friday"
