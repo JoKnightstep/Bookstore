@@ -5,8 +5,8 @@ export default function Book(book) {
         <h3>By ${book.author}</h3>
         <ul>`
 
-    for (let i = 0; i < book.funPoints.length; i++) {
-        returnText += `<li>${book.funPoints[i]}</li>`
+    for (let i = 0; i < book.sellingPoints.length; i++) {
+        returnText += `<li>${book.sellingPoints[i]}</li>`
     }
 
     returnText += `
